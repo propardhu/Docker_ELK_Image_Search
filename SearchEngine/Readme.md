@@ -1,5 +1,5 @@
 # Advanced Image Search System with Machine Learning and Elasticsearch
-
+### medium article is [Building an Advanced Image Search System with Machine Learning and ElasticSearch](https://guttikondaparthasai.medium.com/building-an-advanced-image-search-system-with-machine-learning-and-elasticsearch-b2155ebbeada)
 ## Overview
 
 This project demonstrates the creation of an advanced image search system using OpenAI's CLIP model and Elasticsearch. The system allows for searching images using other images rather than keywords, leveraging machine learning techniques to process images into feature vectors and Elasticsearch for storing and searching these vectors using cosine similarity.
